@@ -1,5 +1,5 @@
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech </h3> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
@@ -16,9 +16,9 @@
     </div>
 </div>
 
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=hazzuu123" alt="Anurag's GitHub stats">
+<div align="center">  
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h3> <br> 
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=hazzuu123" alt="hazzuu's GitHub stats">
     </div> 
 </div>
