@@ -22,3 +22,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=hazzuu123&bg_color=60,7f7fd5,91eae4&title_color=f5f5f5&text_color=f5f5f5" alt="hazzuu's GitHub stats">
     </div> 
 </div>
+
+<div align="center">
+    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Baekjoon Stats </h3> <br>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=iiujj" alt="Baekjoon Profile">
+</div>
